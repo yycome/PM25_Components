@@ -6,6 +6,6 @@ These high-resolution predictions allow us to estimate ZIP Code-level component 
 
 For **EC, OC, NH<sub>4</sub><sup>+</sup>, NO<sub>3</sub><sup>-</sup>, and SO<sub>4</sub><sup>2-</sup>** the units are **&micro;g/m<sup>3</sup>**. For **Br, Ca, Cu, Fe, K, Ni, Pb, Si, V, and Zn** the units are **ng/m<sup>3</sup>**.
 
-# Aggregation codes from grids to ZIP Codes (in directory Rscripts)
+# Aggregation codes from grids to ZIP Codes (in directory "Rscripts")
 
-""Step1_XXXX.r""
+"Step1_XXXX.r" and "Step2_XXXX.r" are codes for ZIP Codes included in Esri files (~31000 ZIP Codes/year). "Missing_XXXX.r" are codes for ZIP Codes that are missing in Esri (~200 ZIP Codes/year). 
